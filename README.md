@@ -4,6 +4,8 @@
 CS기록용 벨로그 : https://velog.io/@dumi33 
 <br>
 개발 & 자기계발 티스토리 : https://what-am-i.tistory.com/
+<br>
+개발 영상 업로드 유튜브 : https://www.youtube.com/channel/UClt49xtg-reCgqE-oDuwB_w/videos
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdumi33)](https://hits.seeyoufarm.com)
 <!--
