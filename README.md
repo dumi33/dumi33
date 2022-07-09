@@ -1,7 +1,8 @@
 ### 안녕하세요 ONLY ONE 개발자 김두미입니다.👋
 
 
-CS기록용 벨로그 : https://velog.io/@dumi33 <
+CS기록용 벨로그 : https://velog.io/@dumi33 
+<br>
 개발 & 자기계발 티스토리 : https://what-am-i.tistory.com/
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdumi33)](https://hits.seeyoufarm.com)
